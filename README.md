@@ -1,8 +1,8 @@
 # ARP-Watch-Notification
-Little Script to notification an ARP Spoofing attack
+Little Script to notification an ARP Spoofing attack on your own Computer
 
 
-Test:
+Supported Platforms:
 Linux Mint with WindowManager i3
 Ubuntu 14.04
 Linux Mint
