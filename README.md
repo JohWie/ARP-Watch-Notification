@@ -16,7 +16,9 @@ TO DO
 
 3.) chmod 777 /opt/arpWatchNotification/arp.sh
 
-4.) Add Line in /etc/crontab "@reboot root sh /opt/arpWatchNotification/arp.sh"
+4.) Add Line in /etc/crontab 
+
+@reboot root sh /opt/arpWatchNotification/arp.sh
 
 ##########
 ## INFO ##
@@ -26,5 +28,6 @@ Linux Mint with i3 Window Manager
 add the this Lines to /etc/crontab
 
 DISPLAY=:0.0
+
 XAUTHORITY=/home/benutzer/.Xauthority
 
