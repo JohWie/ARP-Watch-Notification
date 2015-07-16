@@ -20,6 +20,12 @@ TO DO
 
 @reboot root sh /opt/arpWatchNotification/arp.sh
 
+5.) add the this Lines on the top  /etc/crontab
+
+DISPLAY=:0.0
+
+XAUTHORITY=/home/benutzer/.Xauthority
+
 ##########
 ## INFO ##
 ##########
