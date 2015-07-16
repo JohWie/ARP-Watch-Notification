@@ -10,15 +10,13 @@ Linux Mint
 TO DO
 -----
 
-1.) 
-mkdir /opt/arpWatchNotification
-2.)
-copy the arp.sh to this Directory
-3.)
-chmod 777 /opt/arpWatchNotification/arp.sh
-4.)
-Add Line in /etc/crontab
-@reboot root sh /opt/arpWatchNotification/arp.sh
+1.) mkdir /opt/arpWatchNotification
+
+2.) copy the arp.sh to this Directory
+
+3.) chmod 777 /opt/arpWatchNotification/arp.sh
+
+4.) Add Line in /etc/crontab "@reboot root sh /opt/arpWatchNotification/arp.sh"
 
 ##########
 ## INFO ##
