@@ -31,7 +31,7 @@ Install the Package dunst
 
 2.) sudo mkdir /root/.config/dunst/
 
-3.) copy the example config file to /root/.config/dunst/dunstrc
+3.) copy the example config file (/usr/share/doc/dunst/dunstrc.example.gz) to /root/.config/dunst/dunstrc
 
 4.) add the this Lines to /etc/crontab
 
