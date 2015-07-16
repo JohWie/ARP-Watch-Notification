@@ -24,7 +24,11 @@ TO DO
 ## INFO ##
 ##########
 
-Linux Mint with i3 Window Manager
+For Linux Mint with i3 Window Manager:
+Install the Package dunst
+
+sudo apt-get install dunst
+
 add the this Lines to /etc/crontab
 
 DISPLAY=:0.0
